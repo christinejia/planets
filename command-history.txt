@@ -1,0 +1,199 @@
+    1  /Applications/PaperCut\ Print\ Deploy\ Client/initialise ; exit;
+    2  /Applications/PaperCut\ Print\ Deploy\ Client/updater ; exit;
+    3  /Applications/PaperCut\ Print\ Deploy\ Client/direct-print-monitor/Uninstall.command ; exit;
+    4  java -version\nopenjdk version "1.8.0_312"\nOpenJDK Runtime Environment (Zulu 8.58.0.13-CA-macos-aarch64) (build 1.8.0_312-b07)\nOpenJDK 64-Bit Server VM (Zulu 8.58.0.13-CA-macos-aarch64) (build 25.312-b07, mixed mode)
+    5  java -version
+    6  install.packages("rJava")
+    7  rJava
+    8   $ TMPDIR 
+    9  /Users/username/Library/Containers/com.microsoft.Excel/Data/Library/Preferences/AutoRecovery
+   10  /Users/username/Library/Containers/com.microsoft.Excel/Data/Library/Preferences/AutoRecoveryiceyji
+   11  /Users/xihanjia/Library/Containers/com.microsoft.Excel/Data/Library/Preferences/AutoRecovery
+   12  git--version
+   13  git --version
+   14  nano --version
+   15  ls
+   16  ls -F
+   17  man ls
+   18  ls --help
+   19  ls -F desktop
+   20  ls -F desktop
+   21  cd Desktop
+   22  cd shell-lesson-data
+   23  cd surfdrive
+   24  esc Desktop
+   25  cd ..
+   26  cd surfdrive
+   27  cd /Users/xihanjia/surfdrive/course/python/data/raw data/shell-lesson-data
+   28  cd course/python/data/raw
+   29  cd course
+   30  ls -Fa python/data/raw data/shell-lesson-data
+   31  cd python
+   32  cd cd ..
+   33  cd ..
+   34  cd...
+   35  cd ...
+   36  cd /Users/xihanjia/surfdrive/course/python/data/raw data/shell-lesson-da
+   37  cd ~/python/data/raw data/shell-lesson-data/exercise-data
+   38  cd /python/data/raw data/shell-lesson-data/exercise-data
+   39  cd python/data/raw data/shell-lesson-data/exercise-data
+   40  pwd exercise-data
+   41  pwd
+   42  cd '/Users/xihanjia/surfdrive/course/python/data/raw data/shell-lesson-data/exercise-data'\n
+   43  mkdir ../project/data ../project/results
+   44  mkdir project
+   45  mkdir thesis
+   46  cd thesis
+   47  nano draft.text
+   48  nano draft.txt
+   49  ls
+   50  cd '/Users/xihanjia/surfdrive/course/python/data/raw data/shell-lesson-data/exercise-data'
+   51  mv -i draft.txt/thesis
+   52  ls
+   53  mv draft.txt thesis/\n
+   54  cd thesis
+   55  mv draft.txt exercise-data/
+   56  mv -i draft.txt exercise-data/
+   57  mv -i draft.txt/exercise-data
+   58  cd ..
+   59  cd alkanes
+   60  pwd
+   61  ls
+   62  mkdir recombined
+   63  mv methane.pdb recombined/
+   64  cp recombined/methane.pdb ..methane_save.pdb
+   65  cp recombined/methane.pdb ..methane_save.pdb
+   66  ls *t*ane.pdb
+   67  ls *t?ne.*
+   68  ls *t??ne.pbd
+   69  ls ethane.*
+   70  wc cybane.pdb
+   71  wc cubane.pdb
+   72  cat cubane.pdb
+   73  cd ..
+   74  cat numbers.txt
+   75  sort numbers.txt
+   76  sort -n numbers.txt
+   77  cd alkanes
+   78  sort -n lengths.txt|head -n 1
+   79  sort -n cubane.pdb|head -n 1
+   80  echo i work in the university>about-me.text
+   81  echo i work in the university>>about-me.text
+   82  cat about-me.text
+   83  wc -l*>sort -n>head -n 3
+   84  wc -l
+   85  cd /Users/xihanjia/surfdrive/course/python/data/raw\ data/shell-lesson-data/exercise-data\n
+   86  cd alkanes
+   87  history>command-history.text
+   88  cat ommand-history.text
+   89  history>command-history.txt
+   90  cat command-history.txt 
+   91  git
+   92  # git config --global user.name "chiristinejia"\n
+   93  git config --global user.name "chiristinejia"
+   94  git config --global user.email "x.jia@vu.nl"
+   95  git config --global core.editor "nano-w"
+   96  git config --global init.defaultBranch main
+   97  git config --global list
+   98  git config --list
+   99  cd desktop
+  100  mkdir planets
+  101  cd planets
+  102  Init
+  103  git init
+  104  nano -w
+  105  git status
+  106  git add eeee.txt
+  107  git add eeee
+  108  git commit -m "start notes on eeee as a base"
+  109  git status
+  110  git log
+  111  nano eeee
+  112  git diff
+  113  git commit -m "add the other one"
+  114  git status
+  115  git commit -m "add something"
+  116  git diff --staged
+  117  git log -2
+  118  git log --oneline
+  119  mkdir spaceships
+  120  touch spaceships/apollo-11 spaceships/sputnik-1
+  121  git status
+  122  cd desktop
+  123  cd ..
+  124  Mkdir bio
+  125  cd bio
+  126  echo i work in the university>me.txt
+  127  echo it's too hard>>me.txt\n\necho it is too hard>>me.txt\ncat me.txt
+  128  cat me.txt
+  129  echo it's too hard >> me.txt
+  130  echo my >> me.txt
+  131  each our >> me.txt
+  132  echo our >> me.txt
+  133  cat me.txt
+  134  git commit -m "add something"
+  135  git init
+  136  git add .
+  137  history>command-history.txt
+  138  cd ..
+  139  cd planets
+  140  ls
+  141  git log
+  142  nano mars.txt
+  143  cat mars.txt
+  144  git diff HEAD mars.txt
+  145  git diff HEAD~1 mars.txt
+  146  mv mars.txt marst.txt
+  147  git diff HEAD marst.txt
+  148  echo i work in the university >> marst.txt
+  149  git diff HEAD marst.txt
+  150  git init
+  151  git add .
+  152  git diff HEAD marst.txt
+  153  git restire marst.txt
+  154  git restore marst.txt
+  155  cat marst.txt
+  156  git commit -m "add something"
+  157  git log --oneline
+  158  ls
+  159  cat eeee
+  160  git log --oneline
+  161  nano data_cruncher.py
+  162  echo i work in the university  >> data_cruncher.py
+  163  git commit -m "add something"
+  164  git log --oneline
+  165  cat data_cruncher.py
+  166  git init
+  167  git add .
+  168  git log --oneline
+  169  git add . data_cruncher.py
+  170  git log --oneline
+  171  cat data_cruncher.py
+  172  git log --oneline
+  173  git log --oneline data_cruncher.py
+  174  git log data_cruncher.py
+  175  echo mmmmmmm >> data_cruncher.py 
+  176  cat data_cruncher.py 
+  177  git add data_cruncher.py 
+  178  git commit -m "add something"
+  179  git log --oneline
+  180  git log 85a9b66
+  181  git log --name-only
+  182  mkdir results
+  183  touch a.dat b.dat c.dat results/a.out results/b.out
+  184  ls
+  185  cd results
+  186  ls
+  187  cd ..
+  188  git status
+  189  nano gitignore
+  190  git commit -m "ignore data files and results files"
+  191  history>command-history.txt 储存代码
+  192  history>command-history.txt
+  193  history --help
+  194  history
+  195  history 
+  196  history 200
+  197  history 194
+  198  history 1
+  199  history 1>command-history.txt
